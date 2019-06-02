@@ -85,3 +85,17 @@ VirtualJoystick can turn your Android Smartphone or Tablet to a touch base game 
 3. Setup Arduino IDE for your feather board according to the instructions on Adafruit website
   
 4. Verify and upload firmware code to your Feather Board
+
+5. Install <a href="https://play.google.com/store/apps/details?id=com.milador.virtualjoysticko">VirtualJoystick Android Application</a> in your Android Smartphone or Tablet 
+
+6. Enable Bluetooth in your Android Device
+
+7. Enable Geo Location in your Android Device if you are using the application for the first time. Note: Android SDK 22 and above requires to enable Geolocation to use bluetooth features. You can disable Geolocation permission for the application after the first usage.
+
+
+
+## Hardware Setup Instructions
+
+1. Connect Adafruit Feather 32u4 Bluefruit LE to the Micro-B port of USB cable
+
+2. Connect USB A port of USB cable to your host device ( XAC or Computer )
