@@ -82,7 +82,7 @@ VirtualJoystick can turn your Android Smartphone or Tablet to a touch base game 
   
   2.3. packetParser File: https://github.com/milador/VirtualJoystick/raw/master/Software/VirtualJoystick_Firmware/packetParser.cpp
   
-3. Setup Arduino IDE for your feather board according to the instructions on Adafruit website
+3. Setup Arduino IDE for your feather board according to the instructions on <a href="https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/setup">Adafruit website</a>
   
 4. Verify and upload firmware code to your Feather Board
 
