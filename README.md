@@ -68,13 +68,13 @@ VirtualJoystick can turn your Android Smartphone or Tablet to a touch base game 
 
 ## Software Setup Instructions
 
-  1. Install the required libraries 
+1. Install the required libraries 
   
-  1.1. Install Joystick library: https://github.com/MHeironimus/ArduinoJoystickLibrary
+1.1. Install Joystick library: https://github.com/MHeironimus/ArduinoJoystickLibrary
   
-  1.2. Install Adafruit_BluefruitLE_nRF51 library: https://github.com/adafruit/Adafruit_BluefruitLE_nRF51
+1.2. Install Adafruit_BluefruitLE_nRF51 library: https://github.com/adafruit/Adafruit_BluefruitLE_nRF51
   
-  2. Download the firmware 
+2. Download the firmware 
   
   2.1. VirtualJoystick Firmware : https://github.com/milador/VirtualJoystick/raw/master/Software/VirtualJoystick_Firmware/VirtualJoystick_Firmware.ino
   
@@ -82,6 +82,6 @@ VirtualJoystick can turn your Android Smartphone or Tablet to a touch base game 
   
   2.3. packetParser File: https://github.com/milador/VirtualJoystick/raw/master/Software/VirtualJoystick_Firmware/packetParser.cpp
   
-  3. Setup Arduino IDE for your feather board according to the instructions on Adafruit website
+3. Setup Arduino IDE for your feather board according to the instructions on Adafruit website
   
-  4. Verify and upload firmware code to your Feather Board
+4. Verify and upload firmware code to your Feather Board
