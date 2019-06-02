@@ -37,6 +37,7 @@
 #define MODE_LED_BEHAVIOUR          "MODE"
 /*-----------------------------------------------------------------------*/
 
+
 //Hardware SPI Setup
 Adafruit_BluefruitLE_SPI ble(BLUEFRUIT_SPI_CS, BLUEFRUIT_SPI_IRQ, BLUEFRUIT_SPI_RST);
 
@@ -74,7 +75,7 @@ void setup(void)
   delay(500);
 
   Serial1.begin(115200);
-  Serial1.println(F("VirtualJoystick"));
+  Serial1.println(F("VirtualJoystick Version 1.0"));
   Serial1.println(F("---------------------------"));
   
 
@@ -107,6 +108,7 @@ void loop(void)
     uint8_t buttnum = packetbuffer[2] - '0';
     boolean pressed = packetbuffer[3] - '0';
 
+    
     if (buttnum==0 && pressed) {
       Serial1.println("Pressed x1/View");
       Joystick.pressButton(0); 
