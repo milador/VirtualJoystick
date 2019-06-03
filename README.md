@@ -29,10 +29,10 @@ These are all the files and documentation associated with the VirtualJoystick pr
     <td><a href="https://github.com/milador/VirtualJoystick/archive/master.zip">VirtualJoystick-master.zip</a></td>
   </tr>
   <tr>
-    <td>VirtualJoystick Manual</td>
-    <td></td>
+    <td>VirtualJoystick Setup Guide</td>
+    <td>1.0 (June 2, 2019)</td>
     <td>PDF</td>
-    <td><a href=""> </a></td>
+    <td><a href="https://github.com/milador/VirtualJoystick/raw/master/VirtualJoystick_Setup_Guide.pdf">VirtualJoystick_Setup_Guide.pdf</a></td>
   </tr>
   <tr>
     <td>VirtualJoystick BOM (csv)</td>
