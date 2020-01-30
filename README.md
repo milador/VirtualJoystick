@@ -86,7 +86,7 @@ VirtualJoystick can turn your Android Smartphone or Tablet to a touch base game 
   
 4. Verify and upload firmware code to your Feather Board
 
-5. Install <a href="https://play.google.com/store/apps/details?id=com.milador.virtualjoysticko">VirtualJoystick Android Application</a> in your Android Smartphone or Tablet 
+5. Install <a href="https://play.google.com/store/apps/details?id=com.milador.virtualjoystick">VirtualJoystick Android Application</a> in your Android Smartphone or Tablet 
 
 6. Enable Bluetooth in your Android Device
 
